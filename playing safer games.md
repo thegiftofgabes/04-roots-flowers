@@ -1,4 +1,8 @@
-# Playing Safe Games
+---
+title: "Playing Safer Games"
+---
+
+# Playing Safer Games
 
 When you play ROOTS & FLOWERS, or any other game, remember to be kind to yourself and to the other players. Use these tools or any others you like to ensure a safer game for everyone.
 
