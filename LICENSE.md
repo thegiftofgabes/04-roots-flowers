@@ -1,9 +1,13 @@
-Anti-Capitalist Attribution Cooperative License
+---
+title: "Anti-Capitalist Attribution Cooperative License"
+---
+
+# Anti-Capitalist Attribution Cooperative License
 
 By exercising the Licensed Rights (defined below), You accept and agree to be bound by the terms and conditions of this Anti-Capitalist Attribution Cooperative License ("License"). To the extent this License may be interpreted as a contract, You are granted the Licensed Rights in consideration of Your acceptance of these terms and conditions, and the Licensor grants You such rights in consideration of benefits the Licensor receives from making the Licensed Material available under these terms and conditions.
 
 
-Section 1 – Definitions.
+# Section 1 – Definitions.
 
 A. Adapted Material means material subject to Copyright and Similar Rights that is derived from or based upon the Licensed Material and in which the Licensed Material is translated, altered, arranged, transformed, or otherwise modified in a manner requiring permission under the Copyright and Similar Rights held by the Licensor. For purposes of this License, where the Licensed Material is a musical work, performance, or sound recording, Adapted Material is always produced where the Licensed Material is synched in timed relation with a moving image.
 
@@ -44,7 +48,7 @@ L. Sui Generis Database Rights means rights other than copyright resulting from 
 M. You means the individual or entity exercising the Licensed Rights under this License who has not previously violated the terms of this License with respect to the Licensed Material, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation. Your has a corresponding meaning.
 
 
-Section 2 – Scope.
+# Section 2 – Scope.
 
 A. License grant.
 
@@ -74,7 +78,8 @@ B. Other rights.
    3. To the extent possible, the Licensor waives any right to collect royalties from You for the exercise of the Licensed Rights, whether directly or through a collecting society under any voluntary or waivable statutory or compulsory licensing scheme. 
 
 
-Section 3 – License Conditions.
+# Section 3 – License Conditions.
+
 Your exercise of the Licensed Rights is expressly made subject to the following conditions.
 A. Attribution.
    1. If You Share the Licensed Material (including in modified form), You must:
@@ -107,7 +112,7 @@ In addition to the conditions in Section 3(A), if You Share Adapted Material You
       2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
 
 
-Section 4 – Sui Generis Database Rights.
+# Section 4 – Sui Generis Database Rights.
 
 Where the Licensed Rights include Sui Generis Database Rights that apply to Your use of the Licensed Material:
 
@@ -120,7 +125,7 @@ C. You must comply with the conditions in Section 3(A) if You Share all or a sub
 For the avoidance of doubt, this Section 4 supplements and does not replace Your obligations under this License where the Licensed Rights include other Copyright and Similar Rights.
 
 
-Section 5 – Disclaimer of Warranties and Limitation of Liability.
+# Section 5 – Disclaimer of Warranties and Limitation of Liability.
 
 A. Unless otherwise separately undertaken by the Licensor, to the extent possible, the Licensor offers the Licensed Material as-is and as-available, and makes no representations or warranties of any kind concerning the Licensed Material, whether express, implied, statutory, or other. This includes, without limitation, warranties of title, merchantability, fitness for a particular purpose, non-infringement, absence of latent or other defects, accuracy, or the presence or absence of errors, whether or not known or discoverable. Where disclaimers of warranties are not allowed in full or in part, this disclaimer may not apply to You.
 
@@ -129,7 +134,7 @@ B. To the extent possible, in no event will the Licensor be liable to You on any
 C. The disclaimer of warranties and limitation of liability provided above shall be interpreted in a manner that, to the extent possible, most closely approximates an absolute disclaimer and waiver of all liability.
 
 
-Section 6 – Term and Termination.
+# Section 6 – Term and Termination.
 
 A. This License applies for the term of the Copyright and Similar Rights licensed here. However, if You fail to comply with this License, then Your rights under this License terminate automatically.
 
@@ -146,14 +151,14 @@ D. For the avoidance of doubt, the Licensor may also offer the Licensed Material
 E. Sections 1, 5, 6, 7, and 8 survive termination of this License.
 
 
-Section 7 – Other Terms and Conditions.
+# Section 7 – Other Terms and Conditions.
 
 A. The Licensor shall not be bound by any additional or different terms or conditions communicated by You unless expressly agreed.
 
 B. Any arrangements, understandings, or agreements regarding the Licensed Material not stated herein are separate from and independent of the terms and conditions of this License.
 
 
-Section 8 – Interpretation.
+# Section 8 – Interpretation.
 
 A. For the avoidance of doubt, this License does not, and shall not be interpreted to, reduce, limit, restrict, or impose conditions on any use of the Licensed Material that could lawfully be made without permission under this License.
 
