@@ -248,7 +248,7 @@ Roll or choose on the tables below.
 
 ## Example
 
-[Conflicting approaches]{.ul} are causing [harm]{.ul} to [the community balance and closeness]{.ul} and is going to [create a rift among the people.]{.ul}.
+[Conflicting approaches] are causing [harm] to [the community balance and closeness], and is going to [create a rift among the people.].
 
 # Leave Feedback
 
