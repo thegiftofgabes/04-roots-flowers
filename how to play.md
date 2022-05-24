@@ -197,6 +197,8 @@ Roll or choose on the tables below.
 | **5**   | Animal Migration                 | Hinderance               | Community Balance And Closeness   | Force Some Folks To Evacuate Their Homes |
 | **6**   | An Unearthed Nuclear Plant       | Disturbance              | Job Assignment Board Systems      | Create A Rift Among The People           |
 
+You can use [this Solarpunk adventure generator](https://perchance.org/solarpunk-adventure-generator) based on the table above.
+
 ## Example
 
 [Conflicting approaches] are causing [harm] to [the community balance and closeness], and is going to [create a rift among the people.].
