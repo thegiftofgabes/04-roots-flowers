@@ -6,7 +6,7 @@ title: "How to Play"
 
 In a not-so-distant future, we gave up the illusion of knowing better. This opened new avenues in technological innovation, improving life, and opening our awareness of the subtle, ancestral magic of the world.
 
-You are the local community\'s troubleshooters. Your community turns to you for aid in things big and small. You resolve them by means of innovation, knowledge, technology, mediation, and ancestral guidance.
+You are the local community's troubleshooters. Your community turns to you for aid in things big and small. You resolve them by means of innovation, knowledge, technology, mediation, and ancestral guidance.
 
 **Player Goals:**
 
@@ -34,93 +34,65 @@ In adventures about The Legacy, players may choose to encounter things they wish
 
 ##  Ancestry
 
-Old recipes from someone\'s gran gran, the elderly of the community, the stories untold by the land itself or the millenia-old cultures and traditions brought forth from indigenous peoples, are all forms in which Ancestry manifests. And there is a subtle, gentle magic that comes from it.
+Old recipes from someone's gran gran, the elderly of the community, the stories untold by the land itself or the millenia-old cultures and traditions brought forth from indigenous peoples, are all forms in which Ancestry manifests. And there is a subtle, gentle magic that comes from it.
 
 Ancestry allows players to express their own connection with the past and how it guides and shapes their future.
 
 In adventures around Ancestry, the players may explore how traditions survive, how we relate to the elderly and how we use this knowledge to look forward. Players may also explore their own ancestral roots to indigenous peoples and nations, and explore how they thrive and inspire the community.
 
-##  Magic
+## Magic
 
 Ancestral Magic is subtle, kindly and accessible to all. A stew made to cure a cold could be infused with magic through reverence of passed down cooking recipies. An explorer could feel how the Wild around whispers to all of those who allow themselves to listen, and find paths before unknown. A Teacher could turn their teaching grounds into a magical place of connection and empathy through careful preparation and attention to those who come to attend.
 
 When expressing Ancestral Magic, tell the other players how it manifests and ask the others whether it wants to manifest then and there, and what it will do.
 
-It cannot miraculously cure a wound or lift a boulder, but it can show things hidden, soothe someone\'s suffering or aid in unobtrusive, gentle ways.
+It cannot miraculously cure a wound or lift a boulder, but it can show things hidden, soothe someone's suffering or aid in unobtrusive, gentle ways.
 
 ## Create a Character
 
 1.  Choose a role for your character:
 
     -   Mediator
-
     -   Rebel
-
     -   Caregiver
-
     -   Engineer
-
     -   Architect
-
     -   Artist
-
     -   Explorer
-
     -   Teacher
 
 2.  Choose a trait for your character:
 
     -   Kind
-
     -   Resourceful
-
     -   Contemplative
-
     -   Creative
-
     -   Generous
-
     -   Co-operative
-
     -   Savvy
-
     -   Crafty
-
     -   Mystic
 
-**\
-**
+3. **Choose your number, from 2 to 5. A high number means you're better at FLOWERS** (insight, lightness; compassion; forgiveness; balance; boundaries; subtle, subjective care; magic sense).
 
-3.  **Choose your number, from 2 to 5. A high number means you\'re better at FLOWERS** (insight, lightness; compassion; forgiveness; balance; boundaries; subtle, subjective care; magic sense).
+**A low number means you're better at ROOTS** (presence; consciousness; practical, objective things; drive; focus; movement; magic expression).
 
-> **A low number means you're better at ROOTS** (presence; consciousness; practical, objective things; drive; focus; movement; magic expression).
+4. **Give your character pronouns (or not) and a name** that represents them, that they picked because is meaningful for them, or that is just punk (or all the above).
 
-4.  **Give your character pronouns (or not) and a name** that represents them, that they picked because is meaningful for them, or that is just punk (or all the above).
-
-**\
-**
-
-5.  **Choose a Goal:**
+5. **Choose a Goal:**
 
     -   Accessibility (make stuff accessible to all);
-
     -   Inclusivity (make sure everyone is represented);
-
     -   Change (occupy or unmake spaces to make them better for all);
-
     -   Knowledge (teach and learn, to make informed choices);
-
     -   Ancestrality (be in touch with your ancestors and their bottomless wisdom);
-
     -   Sustainability (optimise the use and management of resources);
-
     -   Joy (spread beauty, happiness and reflection through graffiti, music, theatre or any other form of art);
-
     -   Biodiversity (explore ways to integrate human life into nature and vice-versa).
 
-6.  **Choose a special gadget:** a portable super computer; a multimedia 3d projector; an advanced toolkit; a MedPAC; a universal analyser; a vibro-cutter; a small AI drone.
+6. **Choose a special gadget:** a portable super computer; a multimedia 3d projector; an advanced toolkit; a MedPAC; a universal analyser; a vibro-cutter; a small AI drone.
 
-7.  Complete the sentence below with the information you chose. Sprinkle in as much detail and personality as you feel like.
+7. Complete the sentence below with the information you chose. Sprinkle in as much detail and personality as you feel like.
 
 **My name is \[name, pronouns\]. I am a \[trait\] \[role\]. I want to \[goal\].**
 
@@ -202,11 +174,11 @@ Play to find out how to help the community overcome its challenges.
 
 Introduce a new issue by hinting at what sort of problems it is causing.
 
-Show signs of trouble before it breaks out and when it\'s about to happen, then ask the characters what they do.
+Show signs of trouble before it breaks out and when it's about to happen, then ask the characters what they do.
 
-\"There\'s been a perceptible shift in the population and placement of a lot of insect life lately. What do you do?"
+\"There's been a perceptible shift in the population and placement of a lot of insect life lately. What do you do?"
 
-\"Your PAD has been acting up over the past couple of days - everyone\'s PADs have, as a matter of fact. What do you do?"
+\"Your PAD has been acting up over the past couple of days - everyone's PADs have, as a matter of fact. What do you do?"
 
 Call for a roll when a situation is challenging. Don't pre-plan outcomes---let things happen. Use shortcomings to drive the narrative. The situation always changes after a roll, for good or ill.
 
@@ -216,35 +188,14 @@ Ask questions and build on the answers. \"How much do you know about the World B
 
 Roll or choose on the tables below.
 
-+-------------------------------------+--------------------------------------------+
-| There is/are                        | Is/are causing                             |
-+=====================================+============================================+
-| 1 Conflicting approaches            | 1 Isolation                                |
-|                                     |                                            |
-| 2 A huge storm                      | 2 Damage                                   |
-|                                     |                                            |
-| 3 An out-of-date management system  | 3 Harm                                     |
-|                                     |                                            |
-| 4 Stubbornness                      | 4 Endangerment                             |
-|                                     |                                            |
-| 5 Animal migration                  | 5 Hinderance                               |
-|                                     |                                            |
-| 6 An unearthed nuclear plant        | 6 Disturbance                              |
-+-------------------------------------+--------------------------------------------+
-| To                                  | And is/are going to                        |
-+-------------------------------------+--------------------------------------------+
-| 1 The Learning Center               | 1 Make the water sources inviable          |
-|                                     |                                            |
-| 2 Solar Panel Network               | 2 Cause a huge power shortage              |
-|                                     |                                            |
-| 3 Many native species               | 3 Make everyone sick or hurt               |
-|                                     |                                            |
-| 4 The algae and renewal hyper-farms | 4 Greatly unbalance in the local biomes    |
-|                                     |                                            |
-| 5 Community balance and closeness   | 5 Force some folks to evacuate their homes |
-|                                     |                                            |
-| 6 Job assignment board systems      | 6 Create a rift among the people           |
-+-------------------------------------+--------------------------------------------+
+| **4d6** | **There Is/are**                 | **That Is/are Causing**  | **To**                            | **And Is/are Going To**                  |
+|---------|----------------------------------|--------------------------|-----------------------------------|------------------------------------------|
+| **1**   | Conflicting Approaches           | Isolation                | The Learning Center               | Make The Water Sources Inviable          |
+| **2**   | A Huge Storm                     | Damage                   | Solar Panel Network               | Cause A Huge Power Shortage              |
+| **3**   | An Out-Of-Date Management System | Harm                     | Many Native Species               | Make Everyone Sick Or Hurt               |
+| **4**   | Stubbornness                     | Endangerment             | The Algae And Renewal Hyper-Farms | Greatly Unbalance In The Local Biomes    |
+| **5**   | Animal Migration                 | Hinderance               | Community Balance And Closeness   | Force Some Folks To Evacuate Their Homes |
+| **6**   | An Unearthed Nuclear Plant       | Disturbance              | Job Assignment Board Systems      | Create A Rift Among The People           |
 
 ## Example
 
@@ -255,13 +206,9 @@ Roll or choose on the tables below.
 Leave some feedback about ROOTS & FLOWERS. Here are a few topics:
 
 -   Do you want to share your experience in a session you played this game?
-
 -   Is there something specific you enjoyed?
-
 -   Is there any harmful content I should change or remove immediately?
-
 -   Is there something you'd like to get more of in regards to rules or the setting?
-
 -   Was the game fulfilling and fun for you and your group?
 
 You may leave a review at [this game's Itch Page,](https://gabrielcaetano.itch.io/roots-and-flowers) or contact me over [Twitter](https://twitter.com/TheGiftOfGabes) or email: <gabriel_caetano@live.com>.
