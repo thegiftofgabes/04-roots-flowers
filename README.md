@@ -10,7 +10,7 @@ A Solarpunk Hack of Lasers &amp; Feelings About Community and Caring
 
 Roots and Flowers is a solarpunk hack of [Lasers and Feelings](https://johnharper.itch.io/lasers-feelings) by [John Harper](https://johnharper.itch.io/).
 
-[Roots & Flowers ](https://gabrielcaetano.itch.io/maker-a-journaling-game-about-making-impossible-futures-possible)© 2021 by [Gabriel Caetano ](https://gabrielcaetano.itch.io/)is is made available by Creative Commons Attribution 4.0 International [CC BY-SA 4.0 ![](media/image2.png){width="0.2125in" height="0.2125in"}![](media/image3.png){width="0.2125in" height="0.2125in"}![](media/image4.png){width="0.2125in" height="0.2125in"}](http://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1).
+[Roots & Flowers ](https://gabrielcaetano.itch.io/maker-a-journaling-game-about-making-impossible-futures-possible)© 2021 by [Gabriel Caetano ](https://gabrielcaetano.itch.io/)is is made available by Creative Commons Attribution 4.0 International CC BY-SA 4.0.
 
 This means you are free to share and adapt these materials in personal and commercial works provided that you use the same license type and that you give attribution to Gabriel Caetano using the following text:
 
