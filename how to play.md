@@ -140,7 +140,7 @@ When you roll your dice, compare each die result to your number.
 
 **If you're using ROOTS** (drive, direct approaches, expression magic), you want to roll over your number.
 
-**Hit: 3+** dice succeed. You describe how your action was effective or successful. It reveals an unforeseen benefit or extra effect.
+**Hit:** 3+ dice succeed. You describe how your action was effective or successful. It reveals an unforeseen benefit or extra effect.
 
 **Success:** 2 dice succeed. Describe how your action was successful or effective.
 
@@ -151,21 +151,13 @@ When you roll your dice, compare each die result to your number.
 **Call of the WILD:** you roll exactly your number. You heed the Call of the Wild, getting special insight into what's going on. Ask the GM a question and they'll answer you honestly.
 
 Some good questions:
-
 -   What are they really feeling?
-
 -   Who's upset about this?
-
 -   How could I help them to \_?
-
 -   Whose perspective is not represented in the room?
-
 -   What should I be on the lookout for?
-
 -   What's the best way to \_?
-
 -   What's really going on here?
-
 -   What do my ancestors say about it?
 
 ## Facilitate the Game
@@ -176,11 +168,11 @@ Introduce a new issue by hinting at what sort of problems it is causing.
 
 Show signs of trouble before it breaks out and when it's about to happen, then ask the characters what they do.
 
-\"There's been a perceptible shift in the population and placement of a lot of insect life lately. What do you do?"
+"There's been a perceptible shift in the population and placement of a lot of insect life lately. What do you do?"
 
-\"Your PAD has been acting up over the past couple of days - everyone's PADs have, as a matter of fact. What do you do?"
+"Your PAD has been acting up over the past couple of days - everyone's PADs have, as a matter of fact. What do you do?"
 
-Call for a roll when a situation is challenging. Don't pre-plan outcomes---let things happen. Use shortcomings to drive the narrative. The situation always changes after a roll, for good or ill.
+Call for a roll when a situation is challenging. Don't pre-plan outcomes, let things happen. Use shortcomings to drive the narrative. The situation always changes after a roll, for good or ill.
 
 Ask questions and build on the answers. \"How much do you know about the World Before?"
 
@@ -188,14 +180,14 @@ Ask questions and build on the answers. \"How much do you know about the World B
 
 Roll or choose on the tables below.
 
-| **4d6** | **There Is/are**                 | **That Is/are Causing**  | **To**                            | **And Is/are Going To**                  |
-|---------|----------------------------------|--------------------------|-----------------------------------|------------------------------------------|
-| **1**   | Conflicting Approaches           | Isolation                | The Learning Center               | Make The Water Sources Inviable          |
-| **2**   | A Huge Storm                     | Damage                   | Solar Panel Network               | Cause A Huge Power Shortage              |
-| **3**   | An Out-Of-Date Management System | Harm                     | Many Native Species               | Make Everyone Sick Or Hurt               |
-| **4**   | Stubbornness                     | Endangerment             | The Algae And Renewal Hyper-Farms | Greatly Unbalance In The Local Biomes    |
-| **5**   | Animal Migration                 | Hinderance               | Community Balance And Closeness   | Force Some Folks To Evacuate Their Homes |
-| **6**   | An Unearthed Nuclear Plant       | Disturbance              | Job Assignment Board Systems      | Create A Rift Among The People           |
+| 4d6   | There Is/are                     | That Is/are Causing | To                                | And Is/are Going To                      |
+| ----- | -------------------------------- | ------------------- | --------------------------------- | ---------------------------------------- |
+| **1** | Conflicting Approaches           | Isolation           | The Learning Center               | Make The Water Sources Inviable          |
+| **2** | A Huge Storm                     | Damage              | Solar Panel Network               | Cause A Huge Power Shortage              |
+| **3** | An Out-Of-Date Management System | Harm                | Many Native Species               | Make Everyone Sick Or Hurt               |
+| **4** | Stubbornness                     | Endangerment        | The Algae And Renewal Hyper-Farms | Greatly Unbalance In The Local Biomes    |
+| **5** | Animal Species Migration         | Hinderance          | Community Balance And Closeness   | Force Some Folks To Evacuate Their Homes |
+| **6** | An Unearthed Nuclear Plant       | Disturbance         | Job Assignment Board Systems      | Create A Rift Among The People           |
 
 You can use [this Solarpunk adventure generator](https://perchance.org/solarpunk-adventure-generator) based on the table above.
 
