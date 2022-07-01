@@ -7,13 +7,8 @@
         "id": "c926a4bb10718dba",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "how to play.md",
-            "mode": "source",
-            "backlinks": false,
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         },
         "pane-relief:history-v1": {
           "pos": 0,
@@ -21,8 +16,14 @@
             {
               "leaf": "c926a4bb10718dba",
               "group": null,
+              "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"Untitled.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
+              "eState": "{}"
+            },
+            {
+              "leaf": "c926a4bb10718dba",
+              "group": null,
               "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"how to play.md\",\"mode\":\"source\",\"backlinks\":false,\"source\":false}}",
-              "eState": "{\"scroll\":178.39369419642858}"
+              "eState": "{\"scroll\":0}"
             },
             {
               "leaf": "c926a4bb10718dba",
@@ -109,8 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 178.5,
-    "collapsed": true
+    "width": 178.5
   },
   "right": {
     "id": "670b20684f9bf95b",
@@ -126,7 +126,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "how to play.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +146,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "how to play.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -162,9 +160,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "how to play.md"
-              }
+              "state": {}
             },
             "pane-relief:history-v1": {
               "pos": 0,
@@ -328,6 +324,7 @@
   },
   "active": "c926a4bb10718dba",
   "lastOpenFiles": [
+    "Untitled.md",
     "how to play.md",
     "E8wP0U-XsAIz1BW.jpg",
     "playing safer games.md",
@@ -336,7 +333,6 @@
     "content.en/posts/challenges.md",
     "content.en/posts/burdens-system.md",
     "fantasypunk/content.en/posts/burdens-system.md",
-    "fantasypunk/content.en/posts/chalenge-resolution.md",
-    "fantasypunk/content.en/posts/challenges.md"
+    "fantasypunk/content.en/posts/chalenge-resolution.md"
   ]
 }
